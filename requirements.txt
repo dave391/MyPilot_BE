@@ -1,0 +1,6 @@
+fastapi==0.110.2
+uvicorn==0.20.0
+pymongo==4.3.2
+requests
+python-multipart==0.0.18
+pandas==2.2.2
